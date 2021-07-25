@@ -1,0 +1,7 @@
+INTERFACE=en0
+HARDWARE="38:e9:d3:55:be:a5"
+SOFTWARE="6c:10:08:a8:c6:1a"
+TRIGGER="NetworkSSID"
+LOG_FILE="Spoofd.log"
+LAUNCHD_AGENT="net.ddns.christiaanboersma.spoofd"
+MAX_TRIES=5
